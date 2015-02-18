@@ -6,6 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GarySwift/censorify.git"
+  },  
   "author": "Gary Swift",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
 }
